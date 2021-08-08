@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismos en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promesas",
+    "async"
+  ],
+  "author": "Omar Sanchez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "trabajar con asincronismos en JavaScript"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
